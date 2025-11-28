@@ -3,7 +3,7 @@
 // Oscar's message function.
 // Message format: NPM | Full Name | Message
 void oscar() {
-    puts("0006347853 | Oscar Oscar | Just you wait");
+    puts("2506559033 | Raisha Zahra | Just you wait");
 }
 
 int main() {
